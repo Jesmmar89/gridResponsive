@@ -193,7 +193,6 @@
 @media all and (min-width: 1200px){
 	.container {
 		min-width: 1200px;
-		background-color: grey;
 	}
 	.col-lg-1 {
 	/* (1 / 12) x 100 */

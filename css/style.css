@@ -1,6 +1,80 @@
-header{
+ul{
+	list-style: none;
+}
+li{
+	float: left;
+	margin-left: 5%;
+}
+#BR{
+	background-color: black;
+	color:white;
+	margin-right: 1%;
+}
+h1{
+	position:absolute;
+	top: 15%;
+	left: 50%;
+}
+#fondo{
    background-image: url("../img/architect.jpg");
    background-size: 100% 100%;
    width:100%;
-   height:500px;
+   height:600px;
 }
+#homme1{
+	background-image: url("../img/house2.jpg");
+	background-size: 100% 100%;
+	height: 150px;
+	width: 90%;
+}
+#homme2{
+	background-image: url("../img/house2.jpg");
+	background-size: 100% 100%;
+	height: 150px;
+	width: 90%;
+}
+#homme3{
+	background-image: url("../img/house2.jpg");
+	background-size: 100% 100%;
+	height: 150px;
+	width: 90%;
+}
+#homme4{
+	background-image: url("../img/house2.jpg");
+	background-size: 100% 100%;
+	height: 150px;
+	width: 90%;
+}
+#homme5{
+	background-image: url("../img/house2.jpg");
+	background-size: 100% 100%;
+	height: 150px;
+	width: 90%;
+}
+#homme6{
+	background-image: url("../img/house2.jpg");
+	background-size: 100% 100%;
+	height: 150px;
+	width: 90%;
+}
+#homme7{
+	background-image: url("../img/house2.jpg");
+	background-size: 100% 100%;
+	height: 150px;
+	width: 90%;
+}
+#homme8{
+	background-image: url("../img/house2.jpg");
+	background-size: 100% 100%;
+	height: 150px;
+	width: 90%;
+}
+
+
+
+
+
+
+
+
+
