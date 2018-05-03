@@ -5,69 +5,119 @@ li{
 	float: left;
 	margin-left: 5%;
 }
+hr{
+	margin-bottom: 2%;
+}
+h1{
+	top: 15%;
+	left: 50%;
+	position: absolute;
+}
+h2{
+	margin-top: 3%;
+}
+h4{
+	color:gray;
+}
 #BR{
 	background-color: black;
 	color:white;
-	margin-right: 1%;
 }
-h1{
-	position:absolute;
-	top: 15%;
-	left: 50%;
+#spanachitecs{
+	color: white;
 }
+
 #fondo{
    background-image: url("../img/architect.jpg");
    background-size: 100% 100%;
    width:100%;
    height:600px;
 }
+.hommeProjects{
+	background-color: black;
+	color:white;
+	position:absolute;
+}
 #homme1{
-	background-image: url("../img/house2.jpg");
+	background-image: url("../img/house5.jpg");
 	background-size: 100% 100%;
 	height: 150px;
-	width: 90%;
+	margin-bottom: 5%;
 }
 #homme2{
 	background-image: url("../img/house2.jpg");
 	background-size: 100% 100%;
 	height: 150px;
-	width: 90%;
+	margin-bottom: 5%
 }
 #homme3{
-	background-image: url("../img/house2.jpg");
+	background-image: url("../img/house3.jpg");
 	background-size: 100% 100%;
 	height: 150px;
-	width: 90%;
+	margin-bottom: 5%
 }
 #homme4{
-	background-image: url("../img/house2.jpg");
+	background-image: url("../img/house4.jpg");
 	background-size: 100% 100%;
 	height: 150px;
-	width: 90%;
+	margin-bottom: 5%
 }
 #homme5{
 	background-image: url("../img/house2.jpg");
 	background-size: 100% 100%;
 	height: 150px;
-	width: 90%;
+	margin-bottom: 5%
 }
 #homme6{
-	background-image: url("../img/house2.jpg");
+	background-image: url("../img/house5.jpg");
 	background-size: 100% 100%;
 	height: 150px;
-	width: 90%;
+	margin-bottom: 5%
 }
 #homme7{
-	background-image: url("../img/house2.jpg");
+	background-image: url("../img/house3.jpg");
 	background-size: 100% 100%;
 	height: 150px;
-	width: 90%;
+	margin-bottom: 5%
 }
 #homme8{
-	background-image: url("../img/house2.jpg");
+	background-image: url("../img/house4.jpg");
 	background-size: 100% 100%;
 	height: 150px;
-	width: 90%;
+	margin-bottom: 5%;
+}
+#parrafoabout{
+	margin-bottom: 3%;
+}
+.aboutBox{
+    align-items: center;
+	padding-left: 2%;
+	padding-right: 2%;
+	border-color-left:white;
+	border-radius: 1%;
+}
+.imgabout{
+	width: 100%;
+}
+.butonAbout{
+	background-color: lightgray;
+    border: none;
+    color: black;
+    text-align: center;
+    width: 100%;
+    font-size: 15px;
+}
+input{
+	margin-bottom: 1%;
+	width: 100%;
+}
+#sendMessage{
+	background-color: black;
+    border: none;
+    color: white;
+    text-align: center;
+    width: 45%;
+    font-size: 15px;
 }
 
 

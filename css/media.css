@@ -31,7 +31,6 @@
 @media all and (max-width: 768px){
 	.container {
 		max-width: 768px;
-		background-color:pink;
 	}
 	.col-xs-1 {
 	/* (1 / 12) x 100 */
@@ -85,7 +84,18 @@
 @media all and (min-width: 768px) and (max-width: 992px){
 	.container {
 		max-width: 992px;
-		background-color: aqua;
+	}
+	#menu{
+		visibility: hidden;
+	}
+	#spanachitecs{
+	color: white;
+	visibility: hidden;
+	}
+	h1{
+	top: 8%;
+	left: 45%;
+	position: absolute;
 	}
 	.col-s-1 {
 	/* (1 / 12) x 100 */
@@ -139,7 +149,11 @@
 @media all and (min-width: 992px) and (max-width: 1200px){
 	.container {
 		max-width: 1200px;
-		background-color: green;
+	}
+	h1{
+	top: 9%;
+	left: 40%;
+	position: absolute;
 	}
 	.col-md-1 {
 	/* (1 / 12) x 100 */
